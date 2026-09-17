@@ -1,4 +1,4 @@
-# SEMAMORPH - Semantic and Morphological Cataloging of TV Series
+# Previously On Episodic Recaps through LLM Based Semantic Narrative Analysis
 
 ## Installation
 
